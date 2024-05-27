@@ -1,4 +1,4 @@
-**Hi, I’m Himanka. Currently working as a Senior Data Scientist for Ascendum Solutions.**
+**Hi, I’m Himanka. Currently working as a Senior AI Engineer.**
 - 👀 I’m interested in research and development of use cases regarding the applications of Large Language Models, Computer Vision, and Natural Lanaguage Processing in the domains of healthcare and fintech.
 - 🌱 I’m currently learning the applications of LLM to solve pain points existing in the healthcare and fintech industries.
 - 💞️ I’m looking to collaborate on research in academic or industrial projects for the above mentioned areas.
